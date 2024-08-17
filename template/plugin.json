@@ -1,0 +1,10 @@
+{
+    "name": "PLUGIN NAME",
+    "description": "PLUGIN DESCRIPTION",
+    "version": "PLUGIN VERSION",
+    "author": "PLUGIN AUTHOR",
+    "license": "PLUGIN LICENSE",
+    "settings": {
+        "PLUGIN_SETTING1": "PLUGIN_SETTING1_DESCRIPTION"
+    }
+}

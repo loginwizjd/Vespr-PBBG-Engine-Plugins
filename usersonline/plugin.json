@@ -1,0 +1,21 @@
+{
+    "name": "Users Online Plugin",
+    "description": "A plugin to display users active within a specified time span.",
+    "version": "1.0.0",
+    "author": "Vespr (Discord: VesprGG)",
+    "license": "MIT",
+    "settings": {
+        "user_online_time_span": {
+            "description": "Time span (in minutes) to consider users as online.",
+            "default": "60"
+        },
+        "refresh_interval": {
+            "description": "Refresh interval (in seconds) for updating the online users list.",
+            "default": "30"
+        },
+        "display_limit": {
+            "description": "Maximum number of users to display in the online users list.",
+            "default": "10"
+        }
+    }
+}

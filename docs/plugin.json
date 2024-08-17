@@ -1,0 +1,17 @@
+{
+    "name": "Documentation Manager Plugin",
+    "description": "A plugin to manage and provide documentation for users.",
+    "version": "1.0.2",
+    "author": "Vespr",
+    "license": "MIT",
+    "settings": {
+        "docs_directory": {
+            "description": "Directory where documentation files are stored.",
+            "default": "docs/"
+        },
+        "docs_per_page": {
+            "description": "Number of documentation items to display per page.",
+            "default": 10
+        }
+    }
+}

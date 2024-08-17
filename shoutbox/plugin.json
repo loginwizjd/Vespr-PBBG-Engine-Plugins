@@ -1,0 +1,10 @@
+{
+    "name": "Vespr's Shoutbox",
+    "description": "A real-time shoutbox plugin that allows users to send and view messages with avatars and timestamps.",
+    "version": "1.0.1",
+    "author": "Vespr(Discord:VesprGG)",
+    "license": "MIT",
+    "settings": {
+        "chat_delay": "The delay in seconds for auto-updating the chat"
+    }
+}

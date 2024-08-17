@@ -1,0 +1,15 @@
+{
+    "name": "Inventory Management Plugin",
+    "version": "1.0.1",
+    "description": "A plugin to manage user inventories including item creation, assignment, consumption, and effects.",
+    "author": "Vespr",
+    "dependencies": [],
+    "settings": {
+        "database": {
+            "tables": [
+                "inventory_items",
+                "user_stats"
+            ]
+        }
+    }
+}

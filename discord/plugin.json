@@ -1,0 +1,21 @@
+{
+    "name": "Discord Webhook & API",
+    "description": "A plugin to manage Discord Webhooks & API.",
+    "version": "1.0.4",
+    "author": "Vespr",
+    "license": "MIT",
+    "settings": {
+        "discord_webhook_url": {
+            "description": "Discord Webhook URL.",
+            "default": "docs/"
+        },
+        "discord_bot_token": {
+            "description": "Discord BOT Token.",
+            "default": 10
+        },
+        "discord_channel_id": {
+            "description": "Discord Channel ID.",
+            "default": 10
+        }
+    }
+}

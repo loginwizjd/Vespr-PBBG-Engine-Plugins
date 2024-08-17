@@ -1,0 +1,13 @@
+{
+    "name": "ZIP Files Manager Plugin",
+    "description": "A plugin to manage ZIP file uploads and provide download links for users.",
+    "version": "1.0.0",
+    "author": "Vespr",
+    "license": "MIT",
+    "settings": {
+        "upload_directory": {
+            "description": "Directory where uploaded ZIP files are stored.",
+            "default": "uploads/"
+        }
+    }
+}
